@@ -1,0 +1,10 @@
+float test (){
+float m;
+float q;
+float data;
+data = m * q / data;
+}
+
+
+
+
